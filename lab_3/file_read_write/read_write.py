@@ -7,7 +7,7 @@ try:
     with open("student.txt", "w") as f:
         f.write("STUDENT: MANDIP, AGE: 22, GRADE: B+\n")
         f.write("STUDENT: YUNAY, AGE: 21, GRADE: B-\n")
-        f.write("STUDENT: DIP, AGE: 20, GRADE: A\n")
+        f.write("STUDENT: NIKHIL, AGE: 20, GRADE: A\n")
 
     with open("student.txt", "r") as f:
         print(f.read())  

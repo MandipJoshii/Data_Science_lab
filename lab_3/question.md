@@ -11,7 +11,7 @@ Lab 3: File Handling & Exception
 ● Ignores invalid entries using exception handling
 ● Calculates and displays the sum and average of valid numbers
 
-
+ 
 3. CSV File Handling
 ● Read data from a CSV file containing student records (roll number, name, marks)
 ● Display all student records

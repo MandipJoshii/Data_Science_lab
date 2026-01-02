@@ -1,0 +1,15 @@
+1. Fruit: Tomato
+PRICE = 
+10
+2. Fruit: Mango
+PRICE = 
+20
+3. veggie: Bitter gourd
+PRICE = 
+30
+4. Fruit: Avocado
+PRICE = 
+40
+5. Veggie: Onion
+PRICE = 
+50
